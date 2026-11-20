@@ -12,7 +12,7 @@ This project involves the design and implementation of the core datapath and con
 ## Architecture & Supported Instructions
 The processor features a standard MIPS datapath consisting of an ALU, Register File, Control Unit, Instruction/Data Memories, and a Program Counter.
 
-![MIPS Datapath](images/mips_datapath.png)
+![MIPS Datapath](images/datapath.png)
 *Figure 1: Single-Cycle MIPS Datapath Architecture.*
 
 **Supported Instructions:**
@@ -45,10 +45,10 @@ A comprehensive program that generates an array of 32-bit numbers, sorts them us
 *   **Basic Test:** The simulation log confirms correct execution of all instructions, including the custom `lui` addition (`0xdead0000` successfully stored in memory).
 *   **isort Test:** The processor successfully executed the sorting algorithm. The simulation log printed `PASS1, All Sorted!` and `Pass2, Output Matches the expected Numbers!`.
 
-![Basic Simulation Results](images/basic_result.png)
+![Basic Simulation Results](images/basic.png)
 *Figure 2: Simulation output confirming basic instruction execution, including the modified LUI test.*
 
-![isort Simulation Results](images/isort_result.png)
+![isort Simulation Results](images/isort.png)
 *Figure 3: ModelSim console showing successful insertion sort execution.*
 
 ## Documentation
