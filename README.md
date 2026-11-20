@@ -53,4 +53,4 @@ A comprehensive program that generates an array of 32-bit numbers, sorts them us
 
 ## Documentation
 For a detailed breakdown of the design decisions, datapath modifications, and testbench modifications, please refer to the full project report (in Persian فارسی):
-[Project Report (PDF)](docs/report.pdf)
+[Project Report (PDF)](report/report.pdf)
