@@ -5,7 +5,7 @@ This project involves the design and implementation of the core datapath and con
 
 *Note: The memory modules, Register File, ALU, and basic testbenches were provided as part of the course scaffolding. The author's primary contribution was the structural design of the top-level datapath, the implementation of the fully combinational Control Unit, and extending the architecture to support additional ISA instructions.*
 
-**Course:** Advanced Computer Architecture  
+**Course:** Advanced Computer Architecture (Fall 2026)
 **Institution:** Sharif University of Technology  
 **Instructor:** Dr. Movahedin
 
